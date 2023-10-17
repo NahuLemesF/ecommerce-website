@@ -9,7 +9,7 @@
 }
 
 .banner {
-    height: calc(100vh - 104px);
+    height: 100vh;
     padding-top: 104px;
     display: flex;
     justify-content: center;
@@ -24,7 +24,8 @@
     text-shadow: -2px 4px 4px rgba(0, 0, 0, 1);}
 
 .banner__subtitle {
-    text-shadow: -6px 4px 2px rgba(0, 0, 0, 0.6);    color: #fff;
+    text-shadow: -2px 4px 4px rgba(0, 0, 0, 1);
+    color: #fff;
     display: block;
     white-space: nowrap;
     border-right: 3px solid #006170;
